@@ -24,7 +24,7 @@ analytics_id: ""
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: aminima
 exclude:
   - Gemfile
   - Gemfile.lock
