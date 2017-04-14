@@ -1,6 +1,6 @@
 # aminima
 
-AMinima is minima with AMP.
+AMinima is [minima](https://github.com/jekyll/minima) with [AMP](https://www.ampproject.org/).
 
 [Theme preview](https://shoyan.github.io/aminima/)
 
